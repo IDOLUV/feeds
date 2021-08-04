@@ -1,8 +1,0 @@
-[vlive_smtown]
-title = "SMTOWN ─ Media Board"
-url = "https://vlive.tv/channel/FD53B/board/3530"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong[class^='title_text']"
-linkSelector = "a[class^='post_area']"
-imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
