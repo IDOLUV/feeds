@@ -26,10 +26,9 @@ imageSelector = "div a img[src^='https://cdn.music-flo.com/image/v2/album/']"
 contentSelector = "span.artist_link_w > span > span:nth-child(1) > a"
 waitUntil = "networkidle"
 
-
 [flo_newalbum]
 title = "FLO ─ New Album"
-url = "https://www.music-flo.com/new/track?sortType=KPOP"
+url = "https://www.music-flo.com/new/album?sortType=KPOP"
 entrySelector = "ul.thumbnail_list.badge_thumbnail_list li"
 titleSelector = "p.title a"
 linkSelector = "a"
