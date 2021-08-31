@@ -2,3 +2,4 @@
 
 ## 최신앨범
 https://kpopcord.github.io/feeds/flo_newtrack.xml  
+https://kpopcord.github.io/feeds/flo_newalbum.xml  
