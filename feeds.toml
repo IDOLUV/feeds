@@ -1,3 +1,12 @@
+[jype_recruit]
+title = "JYP RECRUIT"
+url = "https://recruit.jype.com/Recruit"
+entrySelector = "div.recruitList ul li"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.date"
+waitUntil = "networkidle"
+
 [vlive_smtown]
 title = "SMTOWN ─ Media Board"
 url = "https://vlive.tv/channel/FD53B/board/3530"
@@ -46,12 +55,3 @@ imageSelector = "div[class='post-thumb'] img"
 contentSelector = "h2[class='sub-title']"
 waitUntil = "networkidle"
 onFail = "stale"
-
-[jype_recruit]
-title = "JYP RECRUIT"
-url = "https://recruit.jype.com/Recruit"
-entrySelector = "div.recruitList ul li"
-titleSelector = "strong.tit"
-linkSelector = "li a"
-contentSelector = "span.date"
-waitUntil = "networkidle"
