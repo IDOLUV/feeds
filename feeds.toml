@@ -46,3 +46,11 @@ imageSelector = "div[class='post-thumb'] img"
 contentSelector = "h2[class='sub-title']"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[jype_recruit]
+title = "JYP RECRUIT"
+url = "https://recruit.jype.com/Recruit"
+entrySelector = "div.recruitList ul li"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.date"
