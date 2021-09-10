@@ -17,16 +17,6 @@ imageSelector = "span[class^='covered_image']"
 contentSelector = "span[class^='upload_time']"
 waitUntil = "networkidle"
 
-[navertv_onstage]
-title = "ONSTAGE (온스테이지)"
-url = "https://tv.naver.com/onstage/clips"
-entrySelector = "div[class^='cds _MM_CARD']"
-titleSelector = "dt.title"
-linkSelector = "dt.title a"
-imageSelector = "div.cds_type a img"
-contentSelector = "span.tm_b"
-waitUntil = "networkidle"
-
 [vlive_smtown]
 title = "SMTOWN ─ Media Board"
 url = "https://vlive.tv/channel/FD53B/board/3530"
