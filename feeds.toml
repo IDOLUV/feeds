@@ -20,7 +20,7 @@ waitUntil = "networkidle"
 [navertv_onstage]
 title = "ONSTAGE (온스테이지)"
 url = "https://tv.naver.com/onstage/clips"
-entrySelector = "div.cds_area._infiniteCardArea div.cds._MM_CARD  "
+entrySelector = "div[class^='cds _MM_CARD']"
 titleSelector = "dt.title tooltip"
 linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
