@@ -7,6 +7,16 @@ linkSelector = "a"
 contentSelector = "span.date"
 waitUntil = "networkidle"
 
+[vlive_onstage]
+title = "ONSTAGE (온스테이지)"
+url = "https://www.vlive.tv/channel/E61323/board/4268?lang=ko"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong[class^='title_text']"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+
 [vlive_smtown]
 title = "SMTOWN ─ Media Board"
 url = "https://vlive.tv/channel/FD53B/board/3530"
