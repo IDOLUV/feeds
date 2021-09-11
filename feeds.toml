@@ -16,6 +16,15 @@ linkSelector = "a"
 contentSelector = "div.sts p"
 waitUntil = "networkidle"
 
+[yg_recruit]
+title = "YG Entertainment ─ RECRUIT"
+url = "https://yg-entertainment.recruiter.co.kr/app/jobnotice/list"
+entrySelector = "div.list-bbs with-tab ul li"
+titleSelector = "h2.list-bbs-title"
+linkSelector = "span.list-bbs-notice-name a"
+contentSelector = "span.list-bbs-date"
+waitUntil = "networkidle"
+
 [vlive_onstage]
 title = "ONSTAGE (온스테이지)"
 url = "https://www.vlive.tv/channel/E61323/board/4268?lang=ko"
