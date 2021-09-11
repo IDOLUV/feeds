@@ -7,6 +7,15 @@ linkSelector = "a"
 contentSelector = "span.date"
 waitUntil = "networkidle"
 
+[sm_recruit]
+title = "SM Entertainment ─ RECRUIT"
+url = "https://recruit.smentertainment.com/"
+entrySelector = "ul.hrlist li"
+titleSelector = "span.title_txt"
+linkSelector = "a"
+contentSelector = "div.sts p"
+waitUntil = "networkidle"
+
 [vlive_onstage]
 title = "ONSTAGE (온스테이지)"
 url = "https://www.vlive.tv/channel/E61323/board/4268?lang=ko"
