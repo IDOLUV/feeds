@@ -4,715 +4,715 @@
         <title>FLO ─ New Track</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 02:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 04:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Feeling]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlezazy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlezazy/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#421fe6d213#head-->Marrakech<!--fragment#421fe6d213#tail-->]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/169/546/06/04/406546169_613efe38_s.jpg?1631518266649/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드 카펫]]></title>
+            <link>https://www.music-flo.com/detail/album/edzllniah/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzllniah/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#104e5c5f717#head-->문빛<!--fragment#104e5c5f717#tail-->]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/318/552/06/04/406552318_614181f7_o.jpg?1631683064925/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teenage]]></title>
+            <link>https://www.music-flo.com/detail/album/edzllnizz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzllnizz/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#556bef00c#head-->Goopy (구피)<!--fragment#556bef00c#tail-->]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/366/552/06/04/406552366_61418dfd_s.jpg?1631686144117/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뜬구름]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlellyi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlellyi/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#a3ccac26cf#head-->Jimmy Brown<!--fragment#a3ccac26cf#tail-->]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/593/545/06/04/406545593_613ebd85_s.jpg?1631501703290/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반칙왕]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlezdne/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlezdne/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#f2a9079966#head-->배치기<!--fragment#f2a9079966#tail-->]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/024/546/06/04/406546024_613eee96_o.jpg?1631514263595/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wonderland]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlezhie/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlezhie/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1530998f2c0#head-->Lym en<!--fragment#1530998f2c0#tail-->]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/834/546/06/04/406546834_613f6ed1_s.jpg?1631547093289/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무너져 (Art.  김시원)]]></title>
+            <link>https://www.music-flo.com/detail/album/edzllnnyl/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzllnnyl/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#16971ec59dd#head-->Anonymous Artists<!--fragment#16971ec59dd#tail-->]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/295/552/06/04/406552295_61417e03_o.jpg?1631682052250/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OASIS]]></title>
             <link>https://www.music-flo.com/detail/album/edzleyndi/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleyndi/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3d9cd7206e#head-->라포엠 (LA POEM)<!--fragment#3d9cd7206e#tail-->]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/203/549/06/04/406549203_6140306b_s.jpg?1631596655164/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<!--fragment#e4fd78e565#head-->라포엠 (LA POEM)<!--fragment#e4fd78e565#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샌드백 (Sandbag)]]></title>
+            <link>https://www.music-flo.com/detail/album/edzleznzi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzleznzi/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#4bd35eb585#head-->종한 (JONGHAN)<!--fragment#4bd35eb585#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하늘 땅 바다만큼 (mumumumuch)]]></title>
             <link>https://www.music-flo.com/detail/album/edzllninh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzllninh/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#36f4067565#head-->마마무 (Mamamoo)<!--fragment#36f4067565#tail-->]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/328/552/06/04/406552328_614183f4_o.jpg?1631683575097/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<!--fragment#f10eac0c98#head-->마마무 (Mamamoo)<!--fragment#f10eac0c98#tail-->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[집이 돼줄게]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlezely/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlezely/albumtrack</guid>
-            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#c5415b1e4e#head-->양다일<!--fragment#c5415b1e4e#tail-->]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/459/546/06/04/406546459_613f3ab3_o.jpg?1631533748632/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른]]></title>
-            <link>https://www.music-flo.com/detail/album/edzllddla/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzllddla/albumtrack</guid>
-            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#12504b72feb#head-->JAEHA (재하)<!--fragment#12504b72feb#tail-->]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/051/550/06/04/406550051_61405493_s.jpg?1631605910449/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World is One 2021]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlenlha/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlenlha/albumtrack</guid>
-            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#7ad1e24660#head-->이달의 소녀 (츄)<!--fragment#7ad1e24660#tail-->]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/581/542/06/04/406542581_613ff659_s.jpg?1631581786639/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곤란한 노래]]></title>
-            <link>https://www.music-flo.com/detail/album/edzleyzzd/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzleyzzd/albumtrack</guid>
-            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#125c892676c#head-->SUMIN (수민)<!--fragment#125c892676c#tail-->]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/660/549/06/04/406549660_6140452d_s.jpg?1631601967355/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+            <title><![CDATA[운명의 시간]]></title>
+            <link>https://www.music-flo.com/detail/album/edzleozoi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzleozoi/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1267a6e084b#head-->윤도현<!--fragment#1267a6e084b#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퇴근버스]]></title>
             <link>https://www.music-flo.com/detail/album/edzlldayh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlldayh/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#bf24a20ae1#head-->전상근<!--fragment#bf24a20ae1#tail-->]]></content:encoded>
-            <enclosure url="https://cdn.music-flo.com/image/v2/album/198/550/06/04/406550198_61405b23_s.jpg?1631607589592/dims/resize/140x140/quality/90" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<!--fragment#fce12d6e69#head-->전상근<!--fragment#fce12d6e69#tail-->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Make it count]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlnzanl/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlnzanl/albumtrack</guid>
+            <title><![CDATA[어른]]></title>
+            <link>https://www.music-flo.com/detail/album/edzllddla/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzllddla/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#b828666242#head-->최진호 (BlueWhale)<!--fragment#b828666242#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#112ce2fcb67#head-->JAEHA (재하)<!--fragment#112ce2fcb67#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Option]]></title>
+            <link>https://www.music-flo.com/detail/album/edzllniaa/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzllniaa/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#1407305a683#head-->The Hills (더 힐스)<!--fragment#1407305a683#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Firework (Feat. 605)]]></title>
+            <link>https://www.music-flo.com/detail/album/edzllnnoi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzllnnoi/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#114e781b786#head-->포브 (pov)<!--fragment#114e781b786#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Moonlight]]></title>
+            <link>https://www.music-flo.com/detail/album/edzllnize/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzllnize/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#2c625741b5#head-->Jaguaa<!--fragment#2c625741b5#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[집이 돼줄게]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlezely/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlezely/albumtrack</guid>
+            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#f16b8c854c#head-->양다일<!--fragment#f16b8c854c#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JEJU]]></title>
+            <link>https://www.music-flo.com/detail/album/edzliyhan/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzliyhan/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#155ae621be9#head-->LOGI (로기)<!--fragment#155ae621be9#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[World is One 2021]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlenlha/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlenlha/albumtrack</guid>
+            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#81e7fb9f6b#head-->이달의 소녀 (츄)<!--fragment#81e7fb9f6b#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[곤란한 노래]]></title>
+            <link>https://www.music-flo.com/detail/album/edzleyzzd/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzleyzzd/albumtrack</guid>
+            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#11e7df9de88#head-->SUMIN (수민)<!--fragment#11e7df9de88#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[buffering (Feat. 새로)]]></title>
+            <link>https://www.music-flo.com/detail/album/edzllaono/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzllaono/albumtrack</guid>
+            <pubDate>Thu, 16 Sep 2021 04:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#c86e8025b1#head-->프롬유 (From. U)<!--fragment#c86e8025b1#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Lovers in Seoul]]></title>
             <link>https://www.music-flo.com/detail/album/edzleozhl/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleozhl/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#ddc87b15dc#head-->off the menu (오프더메뉴)<!--fragment#ddc87b15dc#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[편]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlezidz/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlezidz/albumtrack</guid>
-            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#55f9e5d1f8#head-->sEODo<!--fragment#55f9e5d1f8#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The End of The Dukkun]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlezazz/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlezazz/albumtrack</guid>
-            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#6e34cca2ae#head-->김동욱<!--fragment#6e34cca2ae#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#de312de321#head-->off the menu (오프더메뉴)<!--fragment#de312de321#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가을이 오지 않았으면 해]]></title>
             <link>https://www.music-flo.com/detail/album/edzleolhy/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleolhy/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#151df285c4c#head-->달빛정원<!--fragment#151df285c4c#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#9e654caad5#head-->달빛정원<!--fragment#9e654caad5#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[편]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlezidz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlezidz/albumtrack</guid>
+            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#125ff7fb595#head-->sEODo<!--fragment#125ff7fb595#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Make it count]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlnzanl/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlnzanl/albumtrack</guid>
+            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#75235b15ed#head-->최진호 (BlueWhale)<!--fragment#75235b15ed#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[진심으로 너를 위해 부르는 노래 (Prod. 로코베리)]]></title>
             <link>https://www.music-flo.com/detail/album/edzlelylh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlelylh/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#c71936f2cf#head-->김윤아<!--fragment#c71936f2cf#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#cdb8d4b328#head-->김윤아<!--fragment#cdb8d4b328#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비상사태 (feat. nov)]]></title>
             <link>https://www.music-flo.com/detail/album/edzllaoae/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzllaoae/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#5b3a3844d6#head-->Chan<!--fragment#5b3a3844d6#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#dbc9d04fbc#head-->Chan<!--fragment#dbc9d04fbc#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나는 울겠지]]></title>
             <link>https://www.music-flo.com/detail/album/edzleylnd/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleylnd/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#aff92e39e3#head-->네이브로<!--fragment#aff92e39e3#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#162d1a6e3d5#head-->네이브로<!--fragment#162d1a6e3d5#tail-->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[긴 밤]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlehdol/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlehdol/albumtrack</guid>
+            <title><![CDATA[The End of The Dukkun]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlezazz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlezazz/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#9da9340262#head-->소피 (Soppy)<!--fragment#9da9340262#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#6753a171f9#head-->김동욱<!--fragment#6753a171f9#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[너를 버텨내는 일]]></title>
             <link>https://www.music-flo.com/detail/album/edzlelizn/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlelizn/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#d08dac76e0#head-->리누 (Lee-Nu)<!--fragment#d08dac76e0#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#474311efea#head-->리누 (Lee-Nu)<!--fragment#474311efea#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[걸음]]></title>
             <link>https://www.music-flo.com/detail/album/edzleznhh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleznhh/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#13c155e751c#head-->이신영<!--fragment#13c155e751c#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#1181b7c3ce1#head-->이신영<!--fragment#1181b7c3ce1#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가을 타나 봐]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenonz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenonz/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#8491a5b649#head-->이무진<!--fragment#8491a5b649#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#d59e09246#head-->이무진<!--fragment#d59e09246#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[How Can I Stop (Explicit Ver.)]]></title>
             <link>https://www.music-flo.com/detail/album/edzleanen/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleanen/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#8f94a082fc#head-->파사딕 (Posadic)<!--fragment#8f94a082fc#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#43e7635f6c#head-->파사딕 (Posadic)<!--fragment#43e7635f6c#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이게 나야 (Feat. CHANGMO (창모))]]></title>
             <link>https://www.music-flo.com/detail/album/edzlezaol/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlezaol/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#11f0b9c7ce4#head-->한요한<!--fragment#11f0b9c7ce4#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#6240a34590#head-->한요한<!--fragment#6240a34590#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Next Level (Habstrakt Remix)]]></title>
             <link>https://www.music-flo.com/detail/album/edzleyeyi/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleyeyi/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#2c2023fba4#head-->aespa<!--fragment#2c2023fba4#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#e40f0c2edf#head-->aespa<!--fragment#e40f0c2edf#tail-->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[긴 밤]]></title>
+            <link>https://www.music-flo.com/detail/album/edzlehdol/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/edzlehdol/albumtrack</guid>
+            <pubDate>Wed, 15 Sep 2021 10:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!--fragment#c4d74631e1#head-->소피 (Soppy)<!--fragment#c4d74631e1#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[눈이 부시는 날에]]></title>
             <link>https://www.music-flo.com/detail/album/edzlezean/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlezean/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#a7f231463#head-->바이유어사이드 (By Your Side)<!--fragment#a7f231463#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#9a6462a400#head-->바이유어사이드 (By Your Side)<!--fragment#9a6462a400#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아직 네가 보고싶어]]></title>
             <link>https://www.music-flo.com/detail/album/edzleooid/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleooid/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3edebf0523#head-->김민울<!--fragment#3edebf0523#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#17828666a48#head-->김민울<!--fragment#17828666a48#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이런 내 맘 정말 모르겠니]]></title>
             <link>https://www.music-flo.com/detail/album/edzlezeii/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlezeii/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#50665475a6#head-->가원<!--fragment#50665475a6#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#12c0abce3b0#head-->가원<!--fragment#12c0abce3b0#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[환기 (Prod. by Loky Beatz)]]></title>
             <link>https://www.music-flo.com/detail/album/edzledhyl/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzledhyl/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#d4d64b9e9d#head-->Rakon<!--fragment#d4d64b9e9d#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#82d51d6d2c#head-->Rakon<!--fragment#82d51d6d2c#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BLUE]]></title>
             <link>https://www.music-flo.com/detail/album/edzleozia/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleozia/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#508744ec96#head-->원호 (WONHO)<!--fragment#508744ec96#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#795d9d1a0e#head-->원호 (WONHO)<!--fragment#795d9d1a0e#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[postman (Explicit Ver.)]]></title>
             <link>https://www.music-flo.com/detail/album/edzleloza/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleloza/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#10b0d75d8ed#head-->songseoul<!--fragment#10b0d75d8ed#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#352696933d#head-->songseoul<!--fragment#352696933d#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[널 위한 멜로디]]></title>
             <link>https://www.music-flo.com/detail/album/edzlnlhid/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlnlhid/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#13a60b33e25#head-->앤씨아<!--fragment#13a60b33e25#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#16c2a84faa5#head-->앤씨아<!--fragment#16c2a84faa5#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[첫사랑]]></title>
             <link>https://www.music-flo.com/detail/album/edzliyzzz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzliyzzz/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#13deeb5b323#head-->유별<!--fragment#13deeb5b323#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#d08dff4842#head-->유별<!--fragment#d08dff4842#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Kings And Queens]]></title>
             <link>https://www.music-flo.com/detail/album/edzlelyio/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlelyio/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#99c5c2cbc#head-->기탁<!--fragment#99c5c2cbc#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#50f4549f01#head-->기탁<!--fragment#50f4549f01#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애취 (prod. KEYMAKER) (Explicit Ver.)]]></title>
             <link>https://www.music-flo.com/detail/album/edzleeoei/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleeoei/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#a953c3f313#head-->Claire Hau (클레어 하우)<!--fragment#a953c3f313#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#bbbde9aea7#head-->Claire Hau (클레어 하우)<!--fragment#bbbde9aea7#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Deja Vu]]></title>
             <link>https://www.music-flo.com/detail/album/edzlehiyl/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlehiyl/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3bfbc694f1#head-->BAADA<!--fragment#3bfbc694f1#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#176d9a2e52d#head-->BAADA<!--fragment#176d9a2e52d#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가슴은 알죠]]></title>
             <link>https://www.music-flo.com/detail/album/edzlezaio/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlezaio/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#636563c9ea#head-->임영웅<!--fragment#636563c9ea#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#d151fce313#head-->임영웅<!--fragment#d151fce313#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Focus (안녕, 낯선사람)]]></title>
             <link>https://www.music-flo.com/detail/album/edzleoyde/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleoyde/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#12503109719#head-->홍은기 (HONG EUNKI)<!--fragment#12503109719#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#a0f1bbc964#head-->홍은기 (HONG EUNKI)<!--fragment#a0f1bbc964#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Cookie and cream]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenoid/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenoid/albumtrack</guid>
             <pubDate>Wed, 15 Sep 2021 03:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#1dff36e667#head-->jazzer<!--fragment#1dff36e667#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#e4499c26cf#head-->jazzer<!--fragment#e4499c26cf#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[I'm You]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenhai/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenhai/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#ae158cead7#head-->HeShe<!--fragment#ae158cead7#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#be28474d7b#head-->HeShe<!--fragment#be28474d7b#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[With You]]></title>
             <link>https://www.music-flo.com/detail/album/edzlezdde/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlezdde/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#132603e3e6b#head-->뒤공<!--fragment#132603e3e6b#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#14220eb6577#head-->뒤공<!--fragment#14220eb6577#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Wallpaper]]></title>
             <link>https://www.music-flo.com/detail/album/edzlezddz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlezddz/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#ff7f9251a0#head-->Jay Marie<!--fragment#ff7f9251a0#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#15120338441#head-->Jay Marie<!--fragment#15120338441#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[목에 오토튠을 빼!]]></title>
             <link>https://www.music-flo.com/detail/album/edzleleae/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleleae/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#111ed255207#head-->패러렐 (Parallel)<!--fragment#111ed255207#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#43f0c093d4#head-->패러렐 (Parallel)<!--fragment#43f0c093d4#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사진으로부터]]></title>
             <link>https://www.music-flo.com/detail/album/edzleeeno/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleeeno/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#ea3cd6385#head-->태인(TAIN)<!--fragment#ea3cd6385#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#1601562dd57#head-->태인(TAIN)<!--fragment#1601562dd57#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[산아]]></title>
             <link>https://www.music-flo.com/detail/album/edzleehaz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleehaz/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#81d5dbb299#head-->강동훈<!--fragment#81d5dbb299#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#8b586a5995#head-->강동훈<!--fragment#8b586a5995#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Fake]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenizi/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenizi/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#c542d37a6b#head-->임헌일<!--fragment#c542d37a6b#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#e7e8815f86#head-->임헌일<!--fragment#e7e8815f86#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바람]]></title>
             <link>https://www.music-flo.com/detail/album/edzlezano/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlezano/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#130166fc601#head-->서린 (Seorin)<!--fragment#130166fc601#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#193593d472#head-->서린 (Seorin)<!--fragment#193593d472#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내 맘을 꺼내 줘]]></title>
             <link>https://www.music-flo.com/detail/album/edzlelyny/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlelyny/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#175ea57eaf9#head-->달에닿아<!--fragment#175ea57eaf9#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#d1c1530e49#head-->달에닿아<!--fragment#d1c1530e49#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Deja Vu]]></title>
             <link>https://www.music-flo.com/detail/album/edzleleay/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleleay/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 10:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#117f9f1b2ea#head-->ATEEZ (에이티즈)<!--fragment#117f9f1b2ea#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#ee762e4aae#head-->ATEEZ (에이티즈)<!--fragment#ee762e4aae#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그댄 이미]]></title>
             <link>https://www.music-flo.com/detail/album/edzlelyye/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlelyye/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#14680035930#head-->우아람<!--fragment#14680035930#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#b6baf24cd2#head-->우아람<!--fragment#b6baf24cd2#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[film (feat. comet)]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenahz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenahz/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 09:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#1402653a346#head-->Homeboy Ludens<!--fragment#1402653a346#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#71056e848e#head-->Homeboy Ludens<!--fragment#71056e848e#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Butterfly (Feat. 27RING)]]></title>
             <link>https://www.music-flo.com/detail/album/edzlezahy/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlezahy/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#14c1590ca6b#head-->로이도 (Roydo)<!--fragment#14c1590ca6b#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#70e79804c#head-->로이도 (Roydo)<!--fragment#70e79804c#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지금 나오는 곡 제목이 뭐야]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenzio/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenzio/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#1444fd86a2b#head-->우수한 (OOSU:HAN)<!--fragment#1444fd86a2b#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#16bd3df6083#head-->우수한 (OOSU:HAN)<!--fragment#16bd3df6083#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[혼자 있는 밤]]></title>
             <link>https://www.music-flo.com/detail/album/edzleleeo/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleleeo/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#5b1f40f782#head-->버블 사운드<!--fragment#5b1f40f782#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#ce7325e8a5#head-->버블 사운드<!--fragment#ce7325e8a5#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Dawn]]></title>
             <link>https://www.music-flo.com/detail/album/edzlezaon/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlezaon/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#16f46920183#head-->Paige<!--fragment#16f46920183#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#101565da64f#head-->Paige<!--fragment#101565da64f#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부디]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenoin/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenoin/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 10:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#bbaebbc05b#head-->지아 (Zia)<!--fragment#bbaebbc05b#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#dbc76be1c8#head-->지아 (Zia)<!--fragment#dbc76be1c8#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Simple Man]]></title>
             <link>https://www.music-flo.com/detail/album/edzlelyhn/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlelyhn/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#6bfc39467#head-->나일수록 좋아<!--fragment#6bfc39467#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#955b7555d7#head-->나일수록 좋아<!--fragment#955b7555d7#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Second chance]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenhad/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenhad/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#12cb3c658c#head-->PS영준<!--fragment#12cb3c658c#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#d4d054dfd5#head-->PS영준<!--fragment#d4d054dfd5#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오랜만이야]]></title>
             <link>https://www.music-flo.com/detail/album/edzlelizz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlelizz/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#fbf1530823#head-->육각수<!--fragment#fbf1530823#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#9a551deb0e#head-->육각수<!--fragment#9a551deb0e#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이 노래를 들어줘]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenlnh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenlnh/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#d3cc1f3102#head-->조승아<!--fragment#d3cc1f3102#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#c23d0dbcbf#head-->조승아<!--fragment#c23d0dbcbf#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그대와 나]]></title>
             <link>https://www.music-flo.com/detail/album/edzlelelh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlelelh/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 10:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#8b3ade58b2#head-->양다일<!--fragment#8b3ade58b2#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#17b6c338f4e#head-->양다일<!--fragment#17b6c338f4e#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[HYPNOTIZED]]></title>
             <link>https://www.music-flo.com/detail/album/edzlilayh/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlilayh/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#4b6dbc105b#head-->ARCX (아르코)<!--fragment#4b6dbc105b#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#b691f37455#head-->ARCX (아르코)<!--fragment#b691f37455#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Dive Baby, Dive]]></title>
             <link>https://www.music-flo.com/detail/album/edzlnhhhn/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlnhhhn/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 10:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#4d66e181fb#head-->Glen Check<!--fragment#4d66e181fb#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#e743a45db8#head-->Glen Check<!--fragment#e743a45db8#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[기도]]></title>
             <link>https://www.music-flo.com/detail/album/edzlendoo/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlendoo/albumtrack</guid>
             <pubDate>Tue, 14 Sep 2021 03:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#10fbda89a17#head-->Woshi<!--fragment#10fbda89a17#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#bb24ee5a6a#head-->Woshi<!--fragment#bb24ee5a6a#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[들리는 편지]]></title>
             <link>https://www.music-flo.com/detail/album/edzlelyni/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlelyni/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 10:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#104813b34f1#head-->태비 (Taeb2)<!--fragment#104813b34f1#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#60207d1388#head-->태비 (Taeb2)<!--fragment#60207d1388#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Vacay (Feat.B JYUN.)]]></title>
             <link>https://www.music-flo.com/detail/album/edzleihnn/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleihnn/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 10:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#7851195a4e#head-->CLOCK<!--fragment#7851195a4e#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#b88a540bfe#head-->CLOCK<!--fragment#b88a540bfe#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[너의 우주엔 별이 없어 (Feat. Yeona)]]></title>
             <link>https://www.music-flo.com/detail/album/edzleaezo/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleaezo/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#1544caff367#head-->015B<!--fragment#1544caff367#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#14b04e6169d#head-->015B<!--fragment#14b04e6169d#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[웃으리]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenihz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenihz/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#691c2a715a#head-->윤딴딴<!--fragment#691c2a715a#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#1563affebee#head-->윤딴딴<!--fragment#1563affebee#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[낮은소리]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenoao/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenoao/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#2fd3a99352#head-->김장훈<!--fragment#2fd3a99352#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#80043e5c03#head-->김장훈<!--fragment#80043e5c03#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[give me head]]></title>
             <link>https://www.music-flo.com/detail/album/edzlnhzol/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlnhzol/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#56e14534b2#head-->Sweet The Kid<!--fragment#56e14534b2#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#528a7ea3a6#head-->Sweet The Kid<!--fragment#528a7ea3a6#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[길의 끝을 나서기 전 (Vocal by 손주희)]]></title>
             <link>https://www.music-flo.com/detail/album/edzleneod/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleneod/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#eafd5cd479#head-->러블리벗 (Lovelybut)<!--fragment#eafd5cd479#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#719730b5da#head-->러블리벗 (Lovelybut)<!--fragment#719730b5da#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[끝이라고 말할 것 같았어 (Too Late)]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenllz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenllz/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 09:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#35f3834b82#head-->황치열<!--fragment#35f3834b82#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#18c6493efd#head-->황치열<!--fragment#18c6493efd#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[감정은 왜 항상 제멋대로야 (feat. KROM, 햄찌(HAMZZI))]]></title>
             <link>https://www.music-flo.com/detail/album/edzleilho/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleilho/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#9e04328333#head-->백식 (Baeksik)<!--fragment#9e04328333#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#e63e8a4ff8#head-->백식 (Baeksik)<!--fragment#e63e8a4ff8#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어느 햇살 좋은 날]]></title>
             <link>https://www.music-flo.com/detail/album/edzledzaa/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzledzaa/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 09:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#322545c04#head-->케이시 (Kassy)<!--fragment#322545c04#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#b4879ceba4#head-->케이시 (Kassy)<!--fragment#b4879ceba4#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Bourgeois (Feat. Zior Park) (Prod. dress)]]></title>
             <link>https://www.music-flo.com/detail/album/edzleneia/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleneia/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 09:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#9ac750c574#head-->BIG Naughty (서동현)<!--fragment#9ac750c574#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#172c2544990#head-->BIG Naughty (서동현)<!--fragment#172c2544990#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[자리비움]]></title>
             <link>https://www.music-flo.com/detail/album/edzliooee/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzliooee/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 10:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#a0ddc36d7a#head-->콜드캔디 (COLDCANDY)<!--fragment#a0ddc36d7a#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#5540885108#head-->콜드캔디 (COLDCANDY)<!--fragment#5540885108#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[너도 그랬듯이]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenlno/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenlno/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#750b7ac430#head-->빨간양말<!--fragment#750b7ac430#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#f5f62c8e8a#head-->빨간양말<!--fragment#f5f62c8e8a#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[온세계]]></title>
             <link>https://www.music-flo.com/detail/album/edzledihz/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzledihz/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#2c024a6345#head-->배현이<!--fragment#2c024a6345#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#1522e30aaab#head-->배현이<!--fragment#1522e30aaab#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그리운 너 (feat. 차유리)]]></title>
             <link>https://www.music-flo.com/detail/album/edzlennzd/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlennzd/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#3ee741d310#head-->블루피쉬<!--fragment#3ee741d310#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#121284093f9#head-->블루피쉬<!--fragment#121284093f9#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[THE]]></title>
             <link>https://www.music-flo.com/detail/album/edzlnhihd/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlnhihd/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#9ce73b79aa#head-->공도하<!--fragment#9ce73b79aa#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#11a940d6344#head-->공도하<!--fragment#11a940d6344#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아직 난 이른 듯해 (with. SER!N)]]></title>
             <link>https://www.music-flo.com/detail/album/edzliohie/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzliohie/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 10:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#169f38988bf#head-->H!<!--fragment#169f38988bf#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#de7f7c3878#head-->H!<!--fragment#de7f7c3878#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안부]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenlea/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenlea/albumtrack</guid>
             <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#9432b430f1#head-->Hamburg Student<!--fragment#9432b430f1#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#e114793f4c#head-->Hamburg Student<!--fragment#e114793f4c#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이별앞에 솔직한 우리 (Prod. Con)]]></title>
             <link>https://www.music-flo.com/detail/album/edzlennao/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlennao/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 09:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#16fe3200a2#head-->KURO<!--fragment#16fe3200a2#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#9617c39114#head-->KURO<!--fragment#9617c39114#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리 이제 헤어져요]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenend/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenend/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 09:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#151558f933c#head-->리디아 (Lydia)<!--fragment#151558f933c#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#c3e99d2366#head-->리디아 (Lydia)<!--fragment#c3e99d2366#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Night and Night]]></title>
             <link>https://www.music-flo.com/detail/album/edzlilhzy/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlilhzy/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#1423c84535f#head-->알레프 (ALEPH)<!--fragment#1423c84535f#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#7227086bec#head-->알레프 (ALEPH)<!--fragment#7227086bec#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[너의 뒤에서]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenlae/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenlae/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#153735541ea#head-->Team P NATION<!--fragment#153735541ea#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#13ba97a8ab6#head-->Team P NATION<!--fragment#13ba97a8ab6#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나는 사랑이]]></title>
             <link>https://www.music-flo.com/detail/album/edzleaeaa/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzleaeaa/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 09:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#28c710cdd5#head-->안복진<!--fragment#28c710cdd5#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#11adf4cb7fe#head-->안복진<!--fragment#11adf4cb7fe#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이유가 안 돼]]></title>
             <link>https://www.music-flo.com/detail/album/edzlenaii/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzlenaii/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#cf159090fc#head-->임소정<!--fragment#cf159090fc#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#e1f7381faa#head-->임소정<!--fragment#e1f7381faa#tail-->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카페인, 점 그리고 따옴]]></title>
             <link>https://www.music-flo.com/detail/album/edzliyzzl/albumtrack</link>
             <guid>https://www.music-flo.com/detail/album/edzliyzzl/albumtrack</guid>
             <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#97cad9df31#head-->차메인 (ChaMane)<!--fragment#97cad9df31#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이별을 말할래]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlianee/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlianee/albumtrack</guid>
-            <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#13de3b4f9ae#head-->이화명<!--fragment#13de3b4f9ae#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[tin man]]></title>
-            <link>https://www.music-flo.com/detail/album/edzleadnn/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzleadnn/albumtrack</guid>
-            <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#b7169a2bde#head-->LILAC (라일락)<!--fragment#b7169a2bde#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파동]]></title>
-            <link>https://www.music-flo.com/detail/album/edzliohnz/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzliohnz/albumtrack</guid>
-            <pubDate>Mon, 13 Sep 2021 03:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#123ca5b9282#head-->불꽃트림<!--fragment#123ca5b9282#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아직 loggin outta Life]]></title>
-            <link>https://www.music-flo.com/detail/album/edzleaehh/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzleaehh/albumtrack</guid>
-            <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#2aaaf0f4dc#head-->Flavordash<!--fragment#2aaaf0f4dc#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다단딴 (Feat. Se2)]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlenazz/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlenazz/albumtrack</guid>
-            <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#11e915c82d4#head-->feelDa<!--fragment#11e915c82d4#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Falling Star]]></title>
-            <link>https://www.music-flo.com/detail/album/edzliozha/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzliozha/albumtrack</guid>
-            <pubDate>Sun, 12 Sep 2021 09:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#126408a2083#head-->It's my turn<!--fragment#126408a2083#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매일밤 (Feat. Jayci yucca) (prod.PATEKO)]]></title>
-            <link>https://www.music-flo.com/detail/album/edzleaeha/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzleaeha/albumtrack</guid>
-            <pubDate>Sat, 11 Sep 2021 09:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#9ffe0ebcc1#head-->BIGONE (빅원)<!--fragment#9ffe0ebcc1#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SODA]]></title>
-            <link>https://www.music-flo.com/detail/album/edzledzla/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzledzla/albumtrack</guid>
-            <pubDate>Sun, 12 Sep 2021 09:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#15b41414082#head-->S1NE<!--fragment#15b41414082#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[돌이키지마]]></title>
-            <link>https://www.music-flo.com/detail/album/edzleniln/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzleniln/albumtrack</guid>
-            <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#b9ec395f48#head-->박산희<!--fragment#b9ec395f48#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[거부]]></title>
-            <link>https://www.music-flo.com/detail/album/edzleaiea/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzleaiea/albumtrack</guid>
-            <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#15dc8d1654f#head-->뮤르 (MuRR)<!--fragment#15dc8d1654f#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[별[星]]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlenihh/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlenihh/albumtrack</guid>
-            <pubDate>Sat, 11 Sep 2021 09:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#4c1b9521b9#head-->진해성<!--fragment#4c1b9521b9#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내게서 내가]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlenila/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlenila/albumtrack</guid>
-            <pubDate>Sat, 11 Sep 2021 09:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#b83934e4c5#head-->Sondia<!--fragment#b83934e4c5#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Airplane]]></title>
-            <link>https://www.music-flo.com/detail/album/edzleaeai/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzleaeai/albumtrack</guid>
-            <pubDate>Sat, 11 Sep 2021 03:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#39f083d4ae#head-->ESON<!--fragment#39f083d4ae#tail-->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이별을 말할 거예요]]></title>
-            <link>https://www.music-flo.com/detail/album/edzlenaal/albumtrack</link>
-            <guid>https://www.music-flo.com/detail/album/edzlenaal/albumtrack</guid>
-            <pubDate>Sun, 12 Sep 2021 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!--fragment#c04d5ecec7#head-->이동현<!--fragment#c04d5ecec7#tail-->]]></content:encoded>
+            <content:encoded><![CDATA[<!--fragment#82a9364a2d#head-->차메인 (ChaMane)<!--fragment#82a9364a2d#tail-->]]></content:encoded>
         </item>
     </channel>
 </rss>
