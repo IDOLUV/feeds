@@ -45,4 +45,3 @@ linkSelector = "div a[class='btn-view-chart']"
 imageSelector = "div[class='post-thumb'] img"
 contentSelector = "h2[class='sub-title']"
 waitUntil = "networkidle"
-onFail = "stale
